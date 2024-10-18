@@ -11,7 +11,7 @@ I love build modern and responsive user interfaces.
 * State Management: I use __Redux Toolkit__ to manage application state.
 * Testing: I test my code with __Jest__.
 * Web Development: I can layout websites using __HTML__, __CSS__, __Flexbox__, and __CSS Grid__.
-* Frameworks & Libraries: React Bootstrap, React Router DOM, Socket.io-client, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch.
+* Frameworks & Libraries: React Bootstrap, React Router DOM, Socket.io, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch.
 * Tools: Curl, Postman, NPM, Git, VS Code.
 
 ## 🌱 Language Skills
