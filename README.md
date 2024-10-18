@@ -7,12 +7,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I love build modern and responsive user interfaces.
 
 ## 🌱 Here are my skills:
-* Languages & Frameworks: I know __JavaScript__, __React__, and __TypeScript__.
+* Languages: I know __JavaScript__, __TypeScript__.
 * State Management: I use __Redux Toolkit__ to manage application state.
 * Testing: I test my code with __Jest__.
 * Web Development: I can layout websites using __HTML__, __CSS__, __Flexbox__, and __CSS Grid__.
-* Frameworks & Libraries: React Bootstrap, React Router DOM, Socket.io, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch.
-* Tools: Curl, Postman, NPM, Git, VS Code.
+* Frameworks & Libraries: __React__, React Bootstrap, React Router DOM, Socket.io, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch.
+* Tools: Curl, Postman, RTK Query, NPM, Git, VS Code.
+* OS: macOS.
 
 ## 🌱 Language Skills
 * English - B1
