@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia Nuikina
 =======================================================================================================================================
 
-🌱 Junior Frontend Developer (React)
+🌱 Frontend Developer (React)
 ---------------------------------
 
 I love build modern and responsive user interfaces.
@@ -9,10 +9,9 @@ I love build modern and responsive user interfaces.
 ## 🌱 Here are my skills:
 * Languages: I know __JavaScript__, __TypeScript__.
 * State Management: I use __Redux Toolkit__ to manage application state.
-* Testing: I test my code with __Jest__.
 * Web Development: I can layout websites using __HTML__, __CSS__, __Flexbox__, and __CSS Grid__.
-* Frameworks & Libraries: __React__, React Bootstrap, React Router DOM, Socket.io, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch.
-* Tools: Curl, Postman, RTK Query, NPM, Git, VS Code.
+* Frameworks & Libraries: __React__, React Bootstrap, React Router DOM, Socket.io, React-i18next, Formik, Yup, React-Toastify, Lodash, Axios, Fetch, Jest, VueJS.
+* Tools: Curl, Postman, Swagger, RTK Query, NPM, Git, VS Code.
 * OS: macOS.
 
 ## 🌱 Language Skills
@@ -20,7 +19,7 @@ I love build modern and responsive user interfaces.
 * Russian - native
 
 ## 🌱 Job Search
-* ### [My CV](https://cv.hexlet.io/ru/resumes/10029)
+* ### [My CV]([https://cv.hexlet.io/ru/resumes/10029](https://krasnodar.hh.ru/resume/20bf5218ff0deb70550039ed1f51764e396168))
 * I am looking for job opportunities where I can use my skills and grow as a developer.
 
 ## 🌱 Future Goals
