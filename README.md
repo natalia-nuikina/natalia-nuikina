@@ -19,7 +19,7 @@ I love build modern and responsive user interfaces.
 * Russian - native
 
 ## 🌱 Job Search
-* ### [My CV]([https://krasnodar.hh.ru/resume/20bf5218ff0deb70550039ed1f51764e396168])
+* ### [My CV](https://krasnodar.hh.ru/resume/20bf5218ff0deb70550039ed1f51764e396168)
 * I am looking for job opportunities where I can use my skills and grow as a developer.
 
 ## 🌱 Future Goals
